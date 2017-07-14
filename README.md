@@ -1,3 +1,5 @@
+1. 修复路径后参数无效问题
+
 # SVG fill loader for Webpack [![Build Status](https://travis-ci.org/kisenka/svg-fill-loader.svg?branch=master)](https://travis-ci.org/kisenka/svg-fill-loader) [![Coverage Status](https://coveralls.io/repos/github/kisenka/svg-fill-loader/badge.svg?branch=master)](https://coveralls.io/github/kisenka/svg-fill-loader?branch=master)
 
 Webpack loader that changes colors in SVG images.
